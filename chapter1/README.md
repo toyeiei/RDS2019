@@ -1,3 +1,3 @@
-# Welcome to the first chapter
+# Chapter 1
 
 Chapter ที่หนึ่งจะสอนเขียน R เบื้องต้น เช่น การสร้างตัวแปรและ vector 
