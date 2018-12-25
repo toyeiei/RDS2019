@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2 - Getting Started with R
 
 บทนี้จะรีวิวเรื่อง data types ที่สำคัญใน R ประกอบด้วย 
 - numeric
