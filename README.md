@@ -3,6 +3,7 @@ R for Data Science 2019 สมัครเรียนฟรีที่ https:/
 
 ### Getting Started
 นักเรียนสามารถดู code ตัวอย่างทั้งหมดได้ใน repository นี้ 
+
 คอร์สเรียนออนไลน์มีทั้งหมด 6 chapters
 
 - Chapter 1 Setting Up Environment
@@ -13,9 +14,9 @@ R for Data Science 2019 สมัครเรียนฟรีที่ https:/
 - Chapter 6 Intro to Modeling
 
 ### Download R and RStudio
-ดาวน์โหลด R version 3.5.2 https://cran.r-project.org/
-ดาวน์โหลด RStudio Desktop https://www.rstudio.com/products/rstudio-desktop/
 ติดตั้งและใช้งานฟรีทั้ง windows, mac, linux 
+- ดาวน์โหลด R version 3.5.2 https://cran.r-project.org/
+- ดาวน์โหลด RStudio Desktop https://www.rstudio.com/products/rstudio-desktop/
 
 ### For Students
 นักเรียนไม่จำเป็นต้องมีพื้นฐานการเขียนโค้ดมาก่อน แค่เคยใช้ MS Excel มาบ้างก็สามารถลงเรียนคอร์สนี้ได้
