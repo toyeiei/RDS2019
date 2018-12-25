@@ -14,3 +14,5 @@ test_df <- df[-idx, ]
 
 nrow(train_df)
 nrow(test_df)
+
+# DONE!
