@@ -18,6 +18,8 @@ dir() # list all files in working directory
 4 / 2
 2 ** 3 
 5 %% 2 # modulo will return 1 for odd numbers
+
+# some math functions
 log(100)
 exp(2)
 sqrt(9) 
