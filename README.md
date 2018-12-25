@@ -21,5 +21,3 @@ R for Data Science 2019 สมัครเรียนฟรีที่ https:/
 
 ### Any Feedback
 พูดคุยกับเราได้ทาง Facebook https://www.facebook.com/datarockie
-
-![DataRockie](https://scontent.fbkk4-3.fna.fbcdn.net/v/t1.0-9/32864632_2065062423507324_3895309362062688256_n.jpg?_nc_cat=100&_nc_eui2=AeHVgHTL5-t7S86LX1o7xqBr3tJkeAWw7idNy2pTFJmtmwakHHi7ZEPG-m83lJq-1LOJQP5UpH8jAu1zGC6Ax2p-aeRmCR-wFDamjBbL2w3dNQ&_nc_ht=scontent.fbkk4-3.fna&oh=0d35aebb793745b7e30e21f2f385eacd&oe=5CD54488)
