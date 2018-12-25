@@ -19,13 +19,9 @@ summary(simple_lm) # get all statistics from the model
 
 # build multiple linear regression model
 multi_lm <- lm(mpg ~ wt + hp + am, data = mtcars)
-print(multi_lm)
-summary(multi_lm)
 
 # build full model using all X's
 full_lm <- lm(mpg ~ ., data = mtcars)
-print(full_lm)
-summary(full_lm)
 
 # make prediction
 p <- predict(full_lm, newdata = mtcars)
