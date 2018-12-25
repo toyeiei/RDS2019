@@ -4,7 +4,7 @@
 
 - AB testing
 - Monte Carlo Simulation
-- Correlation
+- Correlation Plots
 - Linear Regression
 - Logistic Regression
 - One Hidden Layer Neural Network
