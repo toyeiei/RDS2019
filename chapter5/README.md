@@ -8,4 +8,4 @@ content ใน chapter นี้จะใช้ความรู้ที่เ
 - `arrange()`
 - `mutate()`
 - `summarise()`
-- `count()` # ลองอ่านการใช้งานฟังชั่นนี้โดยพิมพ์ `help(dplyr::count)`
+- `count()` # ลองอ่านการใช้งานฟังชั่นนี้โดยพิมพ์ `help(count)`
