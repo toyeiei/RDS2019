@@ -9,3 +9,6 @@ Chapter ที่หนึ่งจะสอนเขียน R เบื้อ
 เปิดโปรแกรม RStudio ขึ้นมา แล้วลอง copy + paste code ลงไปใน console เพื่อดูผลลัพธ์ของโค้ดนั้นๆ
 
 ![RStudio Desktop](https://github.com/toyeiei/RDS2019/blob/master/chapter1/RStudio.png)
+
+### Happy Coding
+พูดคุยกับเราได้ทาง facebook https://www.facebook.com/datarockie
