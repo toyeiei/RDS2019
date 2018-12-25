@@ -17,3 +17,13 @@ print(df)
 # review structure of dataframe
 str(df)
 summary(df)
+
+# there are a number of built-in dataframe in R
+# to see all built-in dataframe, use data() function
+data()
+
+# mtcars dataframe
+str(mtcars) 
+summary(mtcars) # compute statistics
+head(mtcars) # show first 6 rows
+tail(mtcars) # show last 6 rows
