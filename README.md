@@ -2,9 +2,7 @@
 R for Data Science 2019 สมัครเรียนฟรีที่ https://datarockie.com
 
 ### Getting Started
-นักเรียนสามารถดู code ตัวอย่างทั้งหมดได้ใน repository นี้ 
-
-คอร์สเรียนออนไลน์มีทั้งหมด 6 chapters
+นักเรียนสามารถดู code ตัวอย่างทั้งหมดได้ใน repository นี้ คอร์สเรียนออนไลน์มีทั้งหมด 6 Chapters ใช้เวลาเรียนประมาณ 3-4 ชั่วโมง
 
 - Chapter 1 Setting Up Environment
 - Chapter 2 Getting Started with R
