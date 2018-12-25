@@ -6,13 +6,21 @@
 
 # example code for EP3-EP4 
 
+# get working directory
+getwd()
+setwd("C:/Users/Desktop") # can change path to your working folder
+dir() # list all files in working directory
+
 # R as a calculator
 1 + 1
 4 - 2
 2 * 2
 4 / 2
-2 ** 3
-5 %% 2
+2 ** 3 
+5 %% 2 # modulo will return 1 for odd numbers
+log(100)
+exp(2)
+sqrt(9) 
 
 # create variables
 x <- 200
